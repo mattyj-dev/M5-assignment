@@ -1,4 +1,4 @@
-//STEP 1
+// STEP 1
 // let num = parseInt(prompt(`Enter a number to be divided by 2`));
 
 // function divide (num) {
@@ -8,15 +8,21 @@
 // console.log(`Half of ${num} is ${(divide(num))}`);
 
 //STEP 2
-let num = parseInt(prompt(`Enter a number to be squared`));
+// let num = parseInt(prompt(`Enter a number to be squared`));
 
-function squared (num) {
-    return num ** 2
-}
+// function squared (num) {
+//     return num ** 2
+// }
 
-console.log(`${num} squared is ${(squared(num))}`);
+// console.log(`${num} squared is ${(squared(num))}`);
 
 //STEP 3
+numerator = parseInt(prompt(`Enter a number`, 5));
+denominator = parseInt(prompt(`Enter another number`, 10));
+
+function percentOf (numerator, num2) {
+    return 
+}
 
 //STEP 4
 
