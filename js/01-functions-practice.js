@@ -14,7 +14,7 @@ function squared (num) {
     return num ** 2
 }
 
-console.log(`${num} squared is ${squared(num)}`)
+console.log(`${num} squared is ${(squared(num))}`);
 
 //STEP 3
 
