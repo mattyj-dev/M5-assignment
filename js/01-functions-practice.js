@@ -1,4 +1,5 @@
-// STEP 1
+//// STEP 1////
+
 // let num = parseInt(prompt(`Enter a number to be divided by 2`));
 
 // function divide (num) {
@@ -7,7 +8,8 @@
 
 // console.log(`Half of ${num} is ${(divide(num))}`);
 
-//STEP 2
+////STEP 2////
+
 // let num = parseInt(prompt(`Enter a number to be squared`));
 
 // function squared (num) {
@@ -16,14 +18,24 @@
 
 // console.log(`${num} squared is ${(squared(num))}`);
 
-//STEP 3
-numerator = parseInt(prompt(`Enter a number`, 5));
-denominator = parseInt(prompt(`Enter another number`, 10));
+////STEP 3////
 
-function percentOf (numerator, num2) {
-    return 
-}
+// y = parseInt(prompt(`Enter a number`, 5));
+// z = parseInt(prompt(`Enter another number`, 10));
 
-//STEP 4
+// function percentOf (y, z) {
+//     return y / z * 100
+// }
 
-//STEP 5
+// console.log(`${y} is ${percentOf(y, z)}% of ${z}`)
+
+////STEP 4////
+
+// y = parseInt(prompt(`Enter a number`, 10));
+// z = parseInt(prompt(`Enter another number`, 4));
+
+// function findModulus (y, z) {
+//     return y % z
+// }
+
+// console.log(`${findModulus(y, z)} is the modulus of ${y} and ${z}`)
