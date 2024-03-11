@@ -36,6 +36,6 @@ In this part of the assignment you will build a simple calculator using the skil
     In the script, prompt the user for a number and store that in a variable. Convert that to a number.
     Then, prompt the user for a second number and store that in a variable. Convert that to a number.
     Next, prompt the user for the operation they would like to perform (add, subtract, multiply, divide) and store that in a variable.
-    Finally, pass the three parameters into the calculate function to return the result of the calculation. You'll need to add a switch statement inside the calculate function to evaluate the operation and perform the appropriate calculation on the x and y numbers based on the operation passed in. 
+    Finally, pass the three parameters into the calculate function to return the result of the calculation. You'll need to add a switch statement inside the calculate function to evaluate the operation and perform the appropriate calculation on the x and y numbers based on the operation passed in.
     Display the result of the calculation within an alert.
     Figure out how to make it so that if the user doesn’t enter either add, subtract, multiply, or divide, they are displayed an alert message telling them that. Then you’ll have to rerun the application so that the application asks the user for the numbers and operation once more. You’ll have to add this functionality within a do while loop similarly how the labs were done in the previous lecture.
